@@ -13,6 +13,6 @@ media = sum(notas) / quantidade_notas
 print(f"A média é: {media}")
 
 if (media < 8):
-    print("Você precisa estudar mais vagabundo!") 
+    print("Você precisa estudar mais.") 
 else: 
     print("Boa")
